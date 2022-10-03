@@ -1,7 +1,7 @@
 ### About Me
 
 - 🔭 I’m a Solutions Architect working for Lateetud Inc 
-- 🌱 I work in the space of Process Automation and Machine Intelligence
+- 🌱 I work in Process Automation and Machine Intelligence
 
 ### Skills
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
